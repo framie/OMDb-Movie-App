@@ -1,4 +1,4 @@
-import { AspectRatio, Button, Card, Group, Image, Text, rem } from '@mantine/core';
+import { AspectRatio, Button, Card, Group, Image, Text } from '@mantine/core';
 import { IconStar, IconStarFilled } from '@tabler/icons-react';
 import { Link } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
