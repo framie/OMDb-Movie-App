@@ -2,6 +2,8 @@
 
 This is a responsive React application that allows users to search movies via the [OMDb API](https://www.omdbapi.com/), view details, save favorites, and manage a personal list.
 
+The application is hosted on Vercel, where it can be accessed using this [link](https://omdb-movie-app-eta.vercel.app/).
+
 ## Features
 
 - Movie search by title
